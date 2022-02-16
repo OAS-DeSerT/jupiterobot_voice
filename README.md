@@ -46,7 +46,7 @@
 
   $ rostopic pub /voiceWakeup std_msgs/String "data: 'any string'"
 
-## Reference
+## References
 
 - IFLYTEK open platform
 
